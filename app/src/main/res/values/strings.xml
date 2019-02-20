@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TestApp</string>
+    <string name="email1">sssofiane95@gmail.com</string>
+    <string name="email2">sofianeyooung@gmail.com</string>
+    <string name="tlf">0776395536</string>
+    <string name="add">Add To Group</string>
+    <string name="comment">Show All Comment</string>
+</resources>
